@@ -4,7 +4,7 @@
  
 ### ['Intro']
 ```bash
-"Nama": "BOTCAHX",
+"Nama": "Tio",
 "Status": "undefined",
 "Alamat": "Tasikmalaya, Indonesia",
 "Ulang tahun": "November - 09"
@@ -23,7 +23,7 @@
 ## Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BOTCAHX&theme=monokai)
 <p align="center"><a href="https://github.com/BOTCAHX"><img src="https://github-readme-stats.vercel.app/api?username=BOTCAHX&show_icons=true&theme=radical"></a></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hostinger-bot&theme=dark" alt="hostinger-bot" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BOTCAHX&theme=dark" alt="BOTCAHX" /></p>
 <p align="center"><a href="https://github.com/BOTCAHX"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOTCAHX&theme=radical&layout=compact"></a></p> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOTCAHX&theme=vue">
 
@@ -49,5 +49,5 @@
 
 <h3 align="left">Visitor</h3>
 <p align="center">
-<img src="https://count.caliphdev.my.id/get/@hotinger-bot?theme=rule34" alt="visitor.svg">
+<img src="https://count.caliphdev.my.id/get/@BOTCAHX?theme=rule34" alt="visitor.svg">
 </p>
