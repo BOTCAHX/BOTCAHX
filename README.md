@@ -7,7 +7,7 @@
 "Nama": "Tio",
 "Status": "undefined",
 "Alamat": "Tasikmalaya, Indonesia",
-"Ulang tahun": "November - 09"
+"Umur": "21"
 ```
 - 🔭 Saya sedang mengerjakan **Sesuatu**
 - 🌱 Saya sedang belajar **JavaScript & HTML**
